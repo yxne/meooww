@@ -500,4 +500,4 @@ async def on_ready():
 
 
 
-bot.run('NzQ2ODM1Mjk5ODg3MzQ5Nzkx.X0GGkw.BVnuiGAvlc-rVR5OP-DW2EaZ1ag')
+bot.run('TOKEN HERE')
